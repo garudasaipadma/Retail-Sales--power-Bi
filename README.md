@@ -79,3 +79,7 @@ This Power BI project demonstrates practical skills in:
 - Analytical Thinking
 - Storytelling with Data
 - Delivering Business Insights through BI Tools
+
+##**AUTHOR**
+NAME : Garuda sai padma
+Gmail: garudasaipadma@gmail.com
